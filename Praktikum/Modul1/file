@@ -6,7 +6,6 @@ import java.util.Scanner;
 
 
 public class InformasiCustomerService {
-    static ArrayList <Bagus07166_Pegawai> dataPegawai         = new ArrayList<>();
     static ArrayList <Bagus07166_Pengunjung> dataPengunjung   = new ArrayList<>();
     static Scanner input = new Scanner(System.in);
   
